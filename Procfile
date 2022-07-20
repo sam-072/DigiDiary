@@ -1,0 +1,1 @@
+web: gunicorn Digital_Diary.wsgi --log-file -
